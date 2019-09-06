@@ -1,0 +1,16 @@
+thunar.txt
+Created Fri Sep  6 07:06:20 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Thunar v1.6.11
+
+
+Thunar is a fast and easy to use file manager
+for the Xfce Desktop Environment.
+
+
+Links
+=====
+Thunar
+http://thunar.xfce.org
